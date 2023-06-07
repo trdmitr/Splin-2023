@@ -38,6 +38,7 @@
    border-radius: 0.5em;
    box-shadow: 0 8px 15px 0 rgba(0,0,0,0.3), 0 5px 21px 0 rgba(0,0,0,0.18);
    border: 1px solid  white;
+   clip-path: polygon(-27% 41%, 100% -47%, 100% 79%, 0% 151%);
 }
 .media p {
   font-family: 'JakobCTT';
@@ -51,6 +52,7 @@
     border-top-right-radius: 0em;
     border-bottom-right-radius: 0.5em;
     border-bottom-left-radius: 0.5em;
+    clip-path: polygon(-27% 41%, 100% -47%, 100% 79%, 0% 151%);
     /* border: 1px solid  white; */
     /* margin: 0%; */
     /* padding: 0 1em 0 1em; */
