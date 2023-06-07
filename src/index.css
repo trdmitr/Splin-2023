@@ -30,7 +30,7 @@ code {
 :root {
   --boxShadow: 8px -8px 18px 8px rgba(167, 171, 173, 0.43);
   --buttonShadow: -8px 15px 43px 20px rgba(34, 60, 80, 0.3) inset;
-  --buttonBack: rgba(128, 128, 128, 0.781);
+  --buttonBack: rgb(247 191 6);
   --buttonColor: #e2e3e4;
   --colorText: whitesmoke;
   --textShadow: -1px -1.6px 0px whitesmoke inset;

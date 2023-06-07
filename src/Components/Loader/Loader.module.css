@@ -36,7 +36,7 @@
     width: 100px;
     height: 100px;
     border-radius: 50%;
-    border: 10px dashed #cf7a18;
+    border: 10px dashed rgba(252, 248, 9, 0.966);
     animation: rotate 1s infinite linear;
     margin-bottom: 2em;
 }

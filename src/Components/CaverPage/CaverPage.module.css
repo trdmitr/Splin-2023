@@ -34,7 +34,7 @@
     width: calc(50% - 1.5em);
     height: auto;
    padding: 2.4em; 
-   background-color: #eeeeee24;
+   background-color: #31775441;
    border-radius: 0.5em;
    box-shadow: 0 8px 15px 0 rgba(0,0,0,0.3), 0 5px 21px 0 rgba(0,0,0,0.18);
    border: 1px solid  white;
@@ -44,8 +44,8 @@
     text-align: center;
     font-size: 1.7em;
     font-weight: bold;
-    /* color: var(--colorText); */
-    background-color: var(--colorText);
+    color: rgba(26, 87, 87, 0.884);;
+    background-color: var(--buttonBack);
     border-radius: 0.5em;
     border-top-left-radius: 0em;
     border-top-right-radius: 0em;
