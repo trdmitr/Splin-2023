@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "d77ec6aeebec96858df7",
-    "url": "/Splin-2023/static/css/main.b43152d6.chunk.css"
+    "revision": "93755d7a8db16e66a5d9",
+    "url": "/Splin-2023/static/css/main.23a6b06f.chunk.css"
   },
   {
-    "revision": "d77ec6aeebec96858df7",
+    "revision": "93755d7a8db16e66a5d9",
     "url": "/Splin-2023/static/js/main.a18177d2.chunk.js"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/Splin-2023/static/media/jakobctt_8b806cbf869f1c45daf1949a025cd519.f57c1202.woff"
   },
   {
-    "revision": "04ea9cf4f3491f454cb7886ae4a18ede",
+    "revision": "f5b82d7215981003256fbf14a2ba856b",
     "url": "/Splin-2023/index.html"
   }
 ];

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Splin-2023/precache-manifest.2c9ca07ce5aad909a2882d0872a6b47e.js"
+  "/Splin-2023/precache-manifest.8bae81b84b87335585397dd5e3d7ffff.js"
 );
 
 workbox.clientsClaim();
